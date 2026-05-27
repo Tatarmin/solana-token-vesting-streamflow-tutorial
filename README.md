@@ -12,4 +12,6 @@ Open Streamflow for token vesting: https://app.streamflow.finance/vesting
 Streamflow supports Phantom, Solflare, Backpack, and all major Solana wallets.
 Connect your wallet to access the platform.
 
-Choose distribution type token vesting
+Choose distribution type token vesting and click the button `Create new`
+
+Choose the vesting type Linear
