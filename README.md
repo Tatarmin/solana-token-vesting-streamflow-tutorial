@@ -11,3 +11,5 @@ Set up token vesting on Solana with a cliff time using Streamflow
 Open Streamflow for token vesting: https://app.streamflow.finance/vesting
 Streamflow supports Phantom, Solflare, Backpack, and all major Solana wallets.
 Connect your wallet to access the platform.
+
+Choose distribution type token vesting
